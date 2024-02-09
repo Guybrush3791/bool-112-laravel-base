@@ -1,11 +1,7 @@
 @extends('layouts.main-layout')
 @section('head')
-
-    <title>Test 2</title>
-
+    <title>Home</title>
 @endsection
 @section('content')
-
-<h1 class="text-light">Hello, World!</h1>
-
+    <h1>Hello, World!</h1>
 @endsection
